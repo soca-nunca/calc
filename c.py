@@ -1,5 +1,5 @@
-numero = input("insira um valor para fazer uma conta")
-numero2 = input("insira outro valor para fazer a conta")
+numero = int(input("insira um valor para fazer uma conta"))
+numero2 = int(input("insira outro valor para fazer a conta"))
 
 meio = input("escolha o tipo de conta")
 
